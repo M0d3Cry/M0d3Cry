@@ -6,4 +6,4 @@
 - **Tools**: Python, SQL, Pandas, AsyncIO, PlayWright, Web3
 - **Work**: Data scraping • Statistical modeling • Trading bots • Crypto analytics
 
-💀 **Bots don’t sleep. Neither do I.**
+💀 **Bots don’t sleep. Neither do I**
