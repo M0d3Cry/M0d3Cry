@@ -1,4 +1,4 @@
-# 👁️‍🗨️ M0d3Cry
+# 🕷 M0d3Cry
 
 **Silently Parsing Prediction Markets**
 
